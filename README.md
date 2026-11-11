@@ -66,3 +66,7 @@ Zarfshan Attiq Khan
 # Github link
 
 https://github.com/zarfshankhan/Student-Prediction-App.git
+
+# Streamlit View
+
+https://student-prediction-app-gxbogq5kzgqpzoqju4zizh.streamlit.app/S
